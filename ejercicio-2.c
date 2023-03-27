@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/* Elaborado por:
+Fernando Jiménez(30485993)
+*/
+
 int total3 = 0, total5 = 0;
 
 void invertirNum(int numero){
