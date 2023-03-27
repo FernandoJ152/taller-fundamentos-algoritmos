@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/* Elaborado por:
+Fernando Jiménez(30485993) 
+*/
+
 int main(){
 	int i = 1, ced, compraMayor = 0, cantCompra, descuento = 1, totalDesc = 0, cantGIF = 0, cant3 = 0, cant5 = 0;
 	float totalCompra, porcDesc, n;
