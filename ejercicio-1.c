@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/* Elaborado por:
+Fernando Jiménez(30485993) 
+*/
+
 int sumaDiv(int num){
 	int sum = 0, i = 1;
 	do{
